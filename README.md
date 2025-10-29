@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hey there, I'm <span style="color:#00C2FF;">Hanji Ranjan</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast+🤖;Open+Source+Contributor+🌍;AI+Developer+%7C+Data+Driven+Thinker+🧠;Transforming+Ideas+into+Code+✨"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast+🤖;Open+Source+Contributor+🌍;AI+Developer+%7C+Data+Driven+Thinker+🧠;Transforming+Ideas+into+Code+✨">
 </p>
 
 <p align="center">
